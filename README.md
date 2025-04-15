@@ -46,11 +46,12 @@ Launch Linux EC2 instance and set up SSH access.
 Launch Windows EC2 instance and connect using RDP.
 
 ## OUTPUT
-### REG NUMBER:212223220105
-### NAME:SHANMUGAKARTHIK G
+### REG NUMBER:212223040025
+### NAME:BASKAR J
 
 #### S3 buckets:
-![image](https://github.com/user-attachments/assets/2320b883-64b8-45e4-aa70-cb3499a029d4)
+![387316032-2320b883-64b8-45e4-aa70-cb3499a029d4](https://github.com/user-attachments/assets/6556aa0b-44db-4375-89f4-ec7e548f8d1b)
+
 ![image](https://github.com/user-attachments/assets/25559cac-fc7f-4ef6-a1be-16dbc8775267)
 
 
